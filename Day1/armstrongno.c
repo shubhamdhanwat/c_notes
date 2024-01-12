@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <math.h>
+
+//armstrong
 int count_digit(int number)
 {
     int count = 0;
