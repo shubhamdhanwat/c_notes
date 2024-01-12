@@ -1,0 +1,44 @@
+Function
+
+    if any variable is declared and not assigned value
+        every variable is deaclared as auto and
+    it has a automaatic sotrage calss
+        which given then garbage value;
+stack cleaning
+
+as soon as the function return the stack is cleaned
+and if the function is called again then again the stack is filled according to the function variables.
+
+global variavle is not stored in stack it is stored in data section 
+it is safe in data section untill main is not end
+extern int i
+here i is the variable decalred after/before the end of main function in main.c file
+
+extern is applied only for global variable
+-------------------------------
+int z// global
+
+main ()
+{
+    int m = 100 // local
+        extern int k
+            k = 20;
+}
+int k;
+
+factorial()
+{
+
+    int i extern int z;
+    for (1......z)
+}
+first preprocessor works then compiler
+
+
+Pre processor
+#starting with hash
+pre processor directary
+
+1) Macro
+#define SIZE 20
+macro text replacement

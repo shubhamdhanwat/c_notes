@@ -1,0 +1,23 @@
+loops are iterative control structure,
+two types
+1 pre tested-for ,while
+2 post tested -do while ioop
+No of iteration are known for loop
+If the no of iteration are not known the while loop
+
+break and contunue
+
+break is used to come out of loop
+
+for (                                            ;;) // mininum syntax
+while(condition )
+while(1) is also the condition it indicates true
+while(0) false
+
+nested loop
+prime no or not using break statement
+using flag
+
+in comma seperated operators in the condition statenment the right most condition is checked
+if or opearter comes in condition then it looks for
+if and operter comes in the for loop condition then it try kr bhai
